@@ -1,0 +1,11 @@
+{
+  "name": "LavaCanvas",
+  "version": "1.0.0",
+  "description": "Simple learning app using canvas, react and electron shell.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avani Soam",
+  "license": "ISC"
+}
